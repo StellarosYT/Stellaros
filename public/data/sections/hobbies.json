@@ -1,0 +1,253 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": null},
+                "fr": {"title": null}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": "#FF6384",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Family Time",
+                            "description": "Time spent with cherished loved ones.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Famille",
+                            "description": "Temps passé avec des proches chéris.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-tasks",
+                    "fallbackFaIconColor": "#36A2EB",
+                    "percentage": 29,
+                    "locales": {
+                        "en": {
+                            "title": "My Projects",
+                            "description": "Pursuing my creative endeavors.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Mes Projets",
+                            "description": "Poursuivre mes projets créatifs.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-couch",
+                    "fallbackFaIconColor": "#FFCD56",
+                    "percentage": 16,
+                    "locales": {
+                        "en": {
+                            "title": "Relaxing",
+                            "description": "Indulging in tranquility, unwinding the stresses of life.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Détente",
+                            "description": "S'adonner à la tranquillité, dénouer les tensions de la vie.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-book",
+                    "fallbackFaIconColor": "#C5B0FF",
+                    "percentage": 20,
+                    "locales": {
+                        "en": {
+                            "title": "Studying",
+                            "description": "Embarking on a continuous journey of learning.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Études",
+                            "description": "Entamer un voyage continu d'apprentissage.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-music",
+                    "fallbackFaIconColor": "#EEB79A",
+                    "percentage": 20,
+                    "locales": {
+                        "en": {
+                            "title": "Music",
+                            "description": "Listen to musical works while singing along.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Musique",
+                            "description": "Écouter des oeuvres musicales tout en poussant la chansonnette.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Side pursuits"
+                },
+                "fr": {
+                    "title": "Intérêts annexes"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-balance-scale",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "User Experience Design",
+                            "description": "Proficient in crafting user-centric digital experiences. Adept at making technology intuitive and accessible, enhancing user satisfaction.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Politique",
+                            "description": "Rester informer sur les dernières mesures, notamment dans le cadre de l'informatique vis-à-vis des réglementations (Ex: RGPD), est à mon sens un élément essentiel.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-keyboard",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Programming",
+                            "description": "Exploring code, algorithms, and building software solutions for real-world challenges.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Programmation",
+                            "description": "Exploration du code, des algorithmes et création de solutions logicielles pour des défis réels.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-utensils",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cooking",
+                            "description": "Explore recipes, experiment with ingredients and share homemade dishes.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Cuisine",
+                            "description": "Explorer des recettes, expérimenter avec des ingrédients et partager des plats faits maison.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "User Research",
+                            "description": "Delving into user behavior and insights to shape effective design strategies.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Recherche Utilisateur",
+                            "description": "Explorer le comportement et les perceptions des utilisateurs pour façonner des stratégies de conception efficaces.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-headset",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Video Games",
+                            "description": "Relaxing through video games allows me to interact with immersive, competitive, and innovative worlds that allow me to easily escape.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Jeux Vidéo",
+                            "description": "Se détendre via les jeux vidéo me permet d'interagir avec des mondes immersifs, compétitifs et innovants me permettant facilement de m'évader.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

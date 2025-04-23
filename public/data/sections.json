@@ -1,0 +1,135 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to *my resume!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "fr": {
+                    "title": "Bienvenue sur *mon CV!*",
+                    "title_short": "Bienvenue !",
+                    "description": null,
+                    "nav_label": "À propos"
+                }
+            }
+        },
+
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Educational* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Education"
+                },
+                "fr": {
+                    "title": "Parcours *Éducatif*",
+                    "title_short": null,
+                    "description": "Un aperçu de mon parcours académique et de mes réalisations.",
+                    "nav_label": "Éducation"
+                }
+            }
+        },
+
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "fr": {
+                    "title": "Ensemble de *Compétences*",
+                    "title_short": null,
+                    "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:",
+                    "nav_label": "Compétences"
+                }
+            }
+        },
+
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "fr": {
+                    "title": "Expérience *Professionnelle*",
+                    "title_short": null,
+                    "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
+                    "nav_label": "Expérience"
+                }
+            }
+        },
+
+        {
+            "id": "achievements",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/achievements.json",
+            "faIcon": "fa-solid fa-award",
+            "type": "row",
+            "locales": {
+                "en": {
+                    "title": "Career *Achievements*",
+                    "title_short": null,
+                    "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
+                    "nav_label": "Achievements"
+                },
+                "fr": {
+                    "title": "Réalisations *Professionnelles*",
+                    "title_short": null,
+                    "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:",
+                    "nav_label": "Réalisations"
+                }
+            }
+        },
+
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Hobbies* & Interests",
+                    "title_short": null,
+                    "description": "This is pretty much how I spend my free time:",
+                    "nav_label": "Hobbies"
+                },
+                "fr": {
+                    "title": "*Loisirs* et Intérêts",
+                    "title_short": null,
+                    "description": "C'est à peu près ainsi que je passe mon temps libre:",
+                    "nav_label": "Loisirs"
+                }
+            }
+        }
+    ]
+}

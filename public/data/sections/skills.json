@@ -1,0 +1,291 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Frontend Stack"},
+                "fr": {"title": "Stack Frontend"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "description": "Experienced with HTML5 elements and features."
+                        },
+                        "fr": {
+                            "title": "HTML 5",
+                            "description": "Expérimenté avec les éléments et fonctionnalités HTML5."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                        },
+                        "fr": {
+                            "title": "Javascript",
+                            "description": "Compétent en JavaScript pour des applications web dynamiques et interactives."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "percentage": 60,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": "Capable of building and deploying Vue applications."
+                        },
+                        "fr": {
+                            "title": "Vue 3",
+                            "description": "Capable de créer et déployer des applications avec Vue."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": 50,
+                    "locales": {
+                        "en": {
+                            "title": "CSS",
+                            "description": "Basic CSS skills enabling efficient editing and classic design."
+                        },
+                        "fr": {
+                            "title": "CSS",
+                            "description": "Compétences de base en CSS permettant des modifications efficaces et de la conception classique."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "fr": {"title": "Stack Backend"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                        },
+                        "fr": {
+                            "title": "MySQL",
+                            "description": "Compétent dans la gestion de bases de données MySQL, y compris la conception de schémas et l'optimisation des requêtes."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-java",
+                    "fallbackFaIconColor": null,
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Java",
+                            "description": "Experienced in building apps with Java, including server-side logic and database integration."
+                        },
+                        "fr": {
+                            "title": "Java",
+                            "description": "Expérimenté dans la création d'applications avec Java, y compris la logique serveur et l'intégration de bases de données."
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+                        },
+                        "fr": {
+                            "title": "PHP",
+                            "description": "Expérimenté dans la création d'applications web dynamiques avec PHP, y compris la logique serveur et l'intégration de bases de données."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-hard-drive",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Redis",
+                            "description": "Experienced in using Redis for caching and data storage solutions."
+                        },
+                        "fr": {
+                            "title": "Redis",
+                            "description": "Expérimenté dans l'utilisation de Redis pour des solutions de mise en cache et de stockage de données."
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIconColor": null,
+                    "percentage": 65,
+                    "locales": {
+                        "en": {
+                            "title": "NodeJS",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "NodeJS",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"},
+                "fr": {"title": "Langues"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/fr.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "French",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "fr": {
+                            "title": "Français",
+                            "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture.",
+                            "level": "Langue maternelle"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Intermediate proficiency in English; can hold conversations and understand written text.",
+                            "level": "Intermediate"
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "description": "Compétence intermédiaire en anglais ; peut tenir des conversations et comprendre un texte écrit.",
+                            "level": "Intermédiaire"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": "images/flags/es.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Spanish",
+                            "description": "Basic understanding of Spanish; learning and improving.",
+                            "level": "Beginner"
+                        },
+                        "fr": {
+                            "title": "Espagnol",
+                            "description": "Compréhension de base de l'espagnol ; en cours d'apprentissage et d'amélioration.",
+                            "level": "Débutant"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

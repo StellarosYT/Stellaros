@@ -1,0 +1,42 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["email"],
+                "contact_circles_ids": ["instagram", "linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "For over 4 years, I've been a developer, working on APIs, website design, and programming tools for my clients and users. I'm passionate about creating, optimizing, and designing innovative ideas to always come up with a compelling solution to any given situation."
+                        },
+
+                        "fr": {
+                            "description": "Depuis plus de 4 ans, je suis développeur, entre API, conception de sites web et programmation d'outils pour mes clients et utilisateurs. Je suis passionné par la création, l'optimisation et la conception d'idées innovantes afin de toujours proposer une solution agréable face à une situation donnée."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I believe that good conception, pleasing design, and an interesting idea make it easy to create a whole that can improve people's lives by allowing them to use technology with ease and confidence. Let's work together to bring new ideas to life and create something exceptional!"
+                        },
+
+                        "fr": {
+                            "description": "Je suis convaincu qu’une bonne conception, un design agréable et une idée intéressante facilitent la création d'un ensemble qui peut améliorer la vie des gens en leur permettant d’utiliser la technologie avec facilité et confiance. Travaillons ensemble pour donner vie à de nouvelles idées et créer quelque chose d’exceptionnel !"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

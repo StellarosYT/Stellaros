@@ -1,0 +1,53 @@
+{
+    "name": "Paul Chambonnière",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a target='_blank' href='https://github.com/StellarosYT'>Paul Chambonnière</a></strong>",
+            "username": "@Stellaros",
+            "role": "Developer"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a target='_blank' href='https://github.com/StellarosYT'>Paul Chambonnière</a></strong>",
+            "username": "@Stellaros",
+            "role": "Développeur"
+        }
+
+    },
+
+    "contactOptions": [
+        {
+            "id": "email",
+            "value": "pchambonniere@stellaros.dev",
+            "valueShort": "pchambonniere@stellaros.dev",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:pchambonniere@stellaros.dev"
+        },
+
+        {
+            "id": "github",
+            "value": "@StellarosYT",
+            "valueShort": "@StellarosYT",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/StellarosYT"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@PaulStellaros",
+            "valueShort": "@PaulStellaros",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/paulstellaros"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@paul-chambonniere",
+            "valueShort": "@paul-chambonniere",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/paul-chambonniere"
+        }
+    ]
+}

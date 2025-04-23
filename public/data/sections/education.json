@@ -1,0 +1,101 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2012, "month": 8},
+                    "dateEnd": {"year": 2016, "month": 6},
+                    "img": "images/places/logo-college.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "College Diploma",
+                            "description": "Earned my Brevet des Collèges, a French diploma that certifies successful completion of secondary education. This diploma allowed me to acquire fundamental skills in mathematics, science, and languages.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "Jean-Moulin Middle School",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Brevet des Collèges",
+                            "description": "A obtenu son Brevet des Collèges, un diplôme français qui atteste de la réussite à l'enseignement secondaire. Ce diplôme m'a permis d'acquérir des compétences fondamentales en mathématiques, en sciences et en langues.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "Collège Jean-Moulin",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2016, "month": 8},
+                    "dateEnd": {"year": 2019, "month": 6},
+                    "img": "images/places/logo-jeanmoulin-stamand.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor of Science and Technology in Management and Administration",
+                            "description": "Obtained a Bachelor's degree in Management and Administration Science and Technology, with a specialization in Human Resources. This degree allowed me to acquire solid skills in management, IT, administration, and data analysis.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "Jean-Moulin High School",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Baccalauréat en Sciences et Technologies du Management et de la Gestion",
+                            "description": "A obtenu un Baccalauréat en Sciences et Technologies du Management et de la Gestion, avec une spécialisation en Ressources Humaines. Ce diplôme m'a permis d'acquérir des compétences solides en gestion, en informatique, en management et en analyse de données.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "Lycée Jean-Moulin",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2019, "month": 8},
+                    "dateEnd": {"year": 2022, "month": 6},
+                    "img": "images/places/logo-montpellier-university.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Cursus of Law (Not diploma)",
+                            "description": "Completed a law degree at the University of Montpellier, where I gained a solid understanding of legal principles and judicial systems. Although I did not obtain a degree, this experience allowed me to develop analytical and critical thinking skills.",
+                            "province": "Montpellier",
+                            "country": "France",
+                            "institution": "University of Montpellier",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Cursus de Droit (Non diplomé)",
+                            "description": "A effectué un cursus de droit au sein de l'Université de Montpellier, où j'ai acquis une solide compréhension des principes juridiques et des systèmes judiciaires. Bien que je n'aie pas obtenu de diplôme, cette expérience m'a permis de développer des compétences analytiques et critiques.",
+                            "province": "Montpellier",
+                            "country": "France",
+                            "institution": "Université de Montpellier",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

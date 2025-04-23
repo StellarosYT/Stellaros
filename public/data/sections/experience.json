@@ -1,0 +1,101 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2022, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/places/logo-unityrp.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer - Extarnal",
+                            "description": "I leveraged my web development skills to deliver an original and innovative solution for this company. I designed and developed a realistic and immersive web application, incorporating advanced features such as user management, dynamic content creation, and performance optimization. I also maintained and evolved the application based on user feedback.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "UnityRP",
+                            "tags": ["Java", "PHP", "MySQL", "Redis", "Git", "GitHub", "HTML5", "CSS3", "JavaScript"]
+                        },
+
+                        "fr": {
+                            "title": "Développeur Full-Stack - Externe",
+                            "description": "J'ai mis à profit mes compétences en développement web afin de proposer une solution originale et innovante pour cette entreprise. J'ai conçu et développé une application web réaliste et immersive, intégrant des fonctionnalités avancées telles que la gestion des utilisateurs, la création de contenu dynamique et l'optimisation des performances. J'ai également assuré la maintenance et l'évolution de l'application en fonction des retours d'expérience des utilisateurs.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "UnityRP",
+                            "tags": ["Java", "PHP", "MySQL", "Redis", "Git", "GitHub", "HTML5", "CSS3", "JavaScript"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 9},
+                    "dateEnd": {"string": "now"},
+                    "img": "images/places/logo-afterhours.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Chef de Projet",
+                            "description": "I led multidisciplinary teams to successfully execute and deliver high-impact projects within scope, time, and budget. I developed and implemented agile methodologies to improve team productivity, optimize workflows, and ensure continuous improvement. I facilitated collaboration between stakeholders, developers, and the communications team to align project objectives with business goals.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "AfterHours",
+                            "tags": ["JavaScript", "Vue.JS", "Java", "API", "MySQL", "Redis", "GitHub", "Git", "Leadership", "Management"]
+                        },
+
+                        "fr": {
+                            "title": "Chef de Projet",
+                            "description": "J'ai dirigé des équipes pluridisciplinaires pour exécuter et livrer avec succès des projets à fort impact dans les limites de portée, de temps et de budget. J'ai développé et mis en œuvre des méthodologies agiles afin d'améliorer la productivité de l'équipe, d'optimiser les flux de travail et d'assurer une amélioration continue. J'ai facilité la collaboration entre les parties prenantes, les développeurs et l'équipe de communication pour aligner les objectifs du projet avec les objectifs commerciaux.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "AfterHours",
+                            "tags": ["JavaScript", "Vue.JS", "Java", "API", "MySQL", "Redis", "GitHub", "Git", "Leadership", "Management"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2022, "month": 2},
+                    "dateEnd": {"string": "now"},
+                    "img": "images/places/logo-pryoxis.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Freelance in Computer Programming",
+                            "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "PRYOXIS ENTERTAINMENT®",
+                            "tags": ["Leadership", "Management", "Finance", "Strategy", "Communication", "Human Resources", "Programming", "Web Development", "Application Development", "Design"]
+                        },
+
+                        "fr": {
+                            "title": "Auto-entrepreneur en Programmation Informatique",
+                            "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs.",
+                            "province": null,
+                            "country": "France",
+                            "institution": "PRYOXIS ENTERTAINMENT®",
+                            "tags": ["Direction", "Management", "Finances", "Stratégie", "Communication", "Ressources Humaines", "Programmation", "Développement Web", "Développement Applicatif", "Design"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

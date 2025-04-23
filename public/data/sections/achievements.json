@@ -1,0 +1,40 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Certifications"},
+                "fr": {"title": "Certifications"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2021, "month": 4},
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Pix Certification (P-9VBFHX4J)",
+                            "description": "Certified by Pix in IT; demonstrated expertise in IT, security, data management and technical problem solving",
+                            "institution": "République Française"
+                        },
+
+                        "fr": {
+                            "title": "Certification Pix (P-9VBFHX4J)",
+                            "description": "Certifié par Pix en Informatique ; a démontré une expertise en informatique, sécurité, gestion de données et résolution de problèmes techniques.",
+                            "institution": "République Française"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://app.pix.fr/verification-certificat", "stringKey": "view_certification"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

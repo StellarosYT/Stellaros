@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "id": "home",
+            "faIcon": "fa-regular fa-user",
+            "locales": {
+                "en": {"nav_label": "Home"},
+                "fr": {"nav_label": "Accueil"}
+            }
+        },
+
+        {
+            "id": "background",
+            "faIcon": "fa-regular fa-clock",
+            "locales": {
+                "en": {"nav_label": "Background"},
+                "fr": {"nav_label": "Historique"}
+            }
+        },
+
+        {
+            "id": "showcase",
+            "faIcon": "fa-regular fa-folder-open",
+            "locales": {
+                "en": {"nav_label": "Showcase"},
+                "fr": {"nav_label": "Vitrine"}
+            }
+        },
+
+        {
+            "id": "more",
+            "faIcon": "fa-regular fa-object-ungroup",
+            "locales": {
+                "en": {"nav_label": "More"},
+                "fr": {"nav_label": "Plus"}
+            }
+        }
+    ]
+}
