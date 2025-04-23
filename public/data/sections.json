@@ -23,6 +23,28 @@
         },
 
         {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "fr": {
+                    "title": "Expérience *Professionnelle*",
+                    "title_short": null,
+                    "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
+                    "nav_label": "Expérience"
+                }
+            }
+        },
+
+        {
             "id": "education",
             "categoryId": "background",
             "jsonPath": "/sections/education.json",
@@ -62,28 +84,6 @@
                     "title_short": null,
                     "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:",
                     "nav_label": "Compétences"
-                }
-            }
-        },
-
-        {
-            "id": "experience",
-            "categoryId": "background",
-            "jsonPath": "/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Professional* Experience",
-                    "title_short": null,
-                    "description": "A look into my work experience and career journey.",
-                    "nav_label": "Experience"
-                },
-                "fr": {
-                    "title": "Expérience *Professionnelle*",
-                    "title_short": null,
-                    "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
-                    "nav_label": "Expérience"
                 }
             }
         },
